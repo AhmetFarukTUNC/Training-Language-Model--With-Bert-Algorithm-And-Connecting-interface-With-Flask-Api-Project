@@ -1,1 +1,1 @@
-# Training-Language-Model-And-Connecting-nterface-With-Flask-Api-Project
+# Training-Language-Model-And-Connecting-Interface-With-Flask-Api-Project

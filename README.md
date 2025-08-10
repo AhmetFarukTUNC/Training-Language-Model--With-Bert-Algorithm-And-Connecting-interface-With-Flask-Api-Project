@@ -37,8 +37,8 @@ Usage
 
 ![Prediction Result](https://github.com/AhmetFarukTUNC/Training-Language-Model--With-Bert-Algorithm-And-Connecting-interface-With-Flask-Api-Project/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-08-11%20021433.png)
 
-![Prediction Result](../Training-Language-Model--With-Bert-Algorithm-And-Connecting-interface-With-Flask-Api-Project/1.png)
+![Prediction Result](https://github.com/AhmetFarukTUNC/Training-Language-Model--With-Bert-Algorithm-And-Connecting-interface-With-Flask-Api-Project/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-08-11%20021628.png)
 
-![Prediction Result](../Training-Language-Model--With-Bert-Algorithm-And-Connecting-interface-With-Flask-Api-Project/1.png)
+![Prediction Result](https://github.com/AhmetFarukTUNC/Training-Language-Model--With-Bert-Algorithm-And-Connecting-interface-With-Flask-Api-Project/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-08-11%20021648.png)
 
 
